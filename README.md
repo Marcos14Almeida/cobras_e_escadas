@@ -1,32 +1,24 @@
 # cobras_e_escadas
 
-A new Flutter project.
+## Descrição do Projeto 
 
-## Getting Started
+Esse é um projeto em Flutter do jogo cobras e escadas para a seleção de desenvolvedor de Software da Escribo, desenvolivo para dispositivos Android.
 
-Esse é um projeto em Flutter do jogo cobras e escadas para a seleção de desenvolvedor de Software da Escribo. Para utiliza-lo:
+## Como usar o Projeto 
 
-1ºInstale o programa Andoid Studio e as configurações de instalação do Flutter necessárias
+Dois jogadores se revezam em turnos jogando dados, a partir dos valores dos dados, as pessoas automaticamente se movem pelo tabuleiro, seguindo as regras do tradicional jogo cobras e escadas. Ganha o jogador que chegar a casa de número 100 primeiro. Depois disso o jogo termina e uma nova rodada pode começar.
 
-2ºPartindo do pressuposto que seu computador tenha o flutter instalado corretamente então:
+## Como Executar o projeto
 
-3ºBaixe esse repositório do Github
+1ºInstale o programa Andoid Studio/VS Code e as configurações de instalação do Flutter necessárias
 
-4ºdigite no terminal do android studio --flutter run, com um emulador ou celular Android conectado ao Android Studio
+Partindo do pressuposto que seu computador tenha o flutter instalado corretamente
 
-5ºEstá pronto para usar ;)
+2ºCopie o projeto digiando no terminal: -git clone https://github.com/Marcos14Almeida/cobras_e_escadas_escribo/
+
+3ºdigite no terminal do android studio -flutter run, com um emulador ou celular Android conectado ao Android Studio/VS Code.
+
+4ºEstá pronto para usar ;)
 
 
 --Qualquer problema envie um e-mail para: marcos.10palmeida@gmail.com
-
-
-#########################################################################
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
