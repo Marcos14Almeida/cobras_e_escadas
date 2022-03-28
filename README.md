@@ -20,9 +20,9 @@ Partindo do pressuposto que seu computador tenha o flutter instalado corretament
 
 4ºEstá pronto para usar ;)
 
+## Screenshot
+
 <p align="center">
   <img src="https://github.com/Marcos14Almeida/cobras_e_escadas_escribo/blob/master/screenshot.jpg" width="200" title="Screenshot">
   </a>
 </p>
-
---Qualquer problema envie um e-mail para: marcos.10palmeida@gmail.com
