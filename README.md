@@ -14,7 +14,7 @@ Dois jogadores se revezam em turnos jogando dados, a partir dos valores dos dado
 
 Partindo do pressuposto que seu computador tenha o flutter instalado corretamente
 
-2ºCopie o projeto digiando no terminal: -git clone https://github.com/Marcos14Almeida/cobras_e_escadas_escribo/
+2ºCopie o projeto digiando no terminal: -git clone https://github.com/Marcos14Almeida/cobras_e_escadas/
 
 3ºdigite no terminal do android studio -flutter run, com um emulador ou celular Android conectado ao Android Studio/VS Code.
 
@@ -23,6 +23,6 @@ Partindo do pressuposto que seu computador tenha o flutter instalado corretament
 ## Screenshot
 
 <p align="center">
-  <img src="https://github.com/Marcos14Almeida/cobras_e_escadas_escribo/blob/master/screenshot.jpg" width="200" title="Screenshot">
+  <img src="https://github.com/Marcos14Almeida/cobras_e_escadas/blob/master/screenshot.jpg" width="200" title="Screenshot">
   </a>
 </p>
