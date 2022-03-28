@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto 
 
-Esse é um projeto em Flutter do jogo cobras e escadas para a seleção de desenvolvedor de Software da Escribo, desenvolivo para dispositivos Android.
+Esse é um projeto em Flutter do jogo cobras e escadas para a seleção de desenvolvedor de Software da Escribo, desenvolvido para dispositivos Android. Contém algumas animações.
 
 ## Como usar o Projeto 
 
