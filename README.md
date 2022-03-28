@@ -21,7 +21,7 @@ Partindo do pressuposto que seu computador tenha o flutter instalado corretament
 4ºEstá pronto para usar ;)
 
 <p align="center">
-  <img src="https://github.com/Marcos14Almeida/cobras_e_escadas_escribo/blob/main/screenshot.jpg" width="200" title="Davai App">
+  <img src="https://github.com/Marcos14Almeida/cobras_e_escadas_escribo/blob/master/screenshot.jpg" width="200" title="Screenshot">
   </a>
 </p>
 
